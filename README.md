@@ -22,3 +22,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JoanG5/Leetcode/tree/master/0125-valid-palindrome) |
+# Array
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/JoanG5/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+# Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/JoanG5/Leetcode/tree/master/1319-unique-number-of-occurrences) |
