@@ -34,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/JoanG5/Leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/JoanG5/Leetcode/tree/master/0792-binary-search) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/JoanG5/Leetcode/tree/master/0278-first-bad-version) |
