@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JoanG5/Leetcode/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/JoanG5/Leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/JoanG5/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JoanG5/Leetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/JoanG5/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Binary Search
 |  |
