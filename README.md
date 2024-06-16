@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JoanG5/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/JoanG5/Leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/JoanG5/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoanG5/Leetcode/tree/master/0001-two-sum) |
+| [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
 | [1319-unique-number-of-occurrences](https://github.com/JoanG5/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Binary Search
 |  |
@@ -56,3 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
+# Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
+# Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
+# Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
