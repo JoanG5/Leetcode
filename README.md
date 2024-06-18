@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoanG5/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/JoanG5/Leetcode/tree/master/0125-valid-palindrome) |
 # String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoanG5/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JoanG5/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0554-brick-wall](https://github.com/JoanG5/Leetcode/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoanG5/Leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/JoanG5/Leetcode/tree/master/0621-task-scheduler) |
 # Sorting
 |  |
