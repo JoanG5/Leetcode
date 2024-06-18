@@ -3,7 +3,7 @@ class Solution:
         left, right = 0, len(height) - 1
         res = 0
         while left < right:
-            water = min(height[left], height[right]) * abs(right - left)
+            water = min(height[left], height[right]) * (right - left)
             res = max(water, res)
 
             if height[left] < height[right]:
