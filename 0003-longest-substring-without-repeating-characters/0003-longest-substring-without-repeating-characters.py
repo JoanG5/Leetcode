@@ -1,17 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-      start = max_length = 0
-      letters = set()
+        hash = {}
+        start = max_length = 0
 
-      for end in range(len(s)):
-        # If the end character is already in the set,
-        # advance the start pointer.
-        while s[end] in letters:
-          letters.remove(s[start])
-          start += 1
+        for end in range(len(s)):
+            while s[end] in hash:
+                del hash[s[start]]
+                start += 1
+            
+            hash[s[end]] = 1
+            max_length = max(max_length, len(hash))
 
-        # Now we can add the end character.
-        letters.add(s[end])
-        max_length = max(max_length, end - start + 1)
-    
-      return max_length
+        return max_length
+
+
+        
