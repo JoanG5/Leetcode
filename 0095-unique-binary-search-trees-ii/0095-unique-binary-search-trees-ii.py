@@ -6,13 +6,13 @@
 #         self.right = right
 class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
-        
+        memo = {}
+
         def build(left, right):
-            if left == right:
-                return [TreeNode(left)]
             if left > right:
                 return [None]
-            
+            if (left, right) in memo:
+                return memo[(left, right)]
             res = []
 
             for val in range(left, right + 1):
@@ -20,6 +20,7 @@ class Solution:
                     for rightTree in build(val + 1, right):
                         root = TreeNode(val, leftTree, rightTree)
                         res.append(root)
+            memo[(left, right)] = res
             return res
         
         return build(1, n)
