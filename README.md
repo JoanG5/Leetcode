@@ -131,9 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/JoanG5/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JoanG5/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
