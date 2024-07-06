@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## String
@@ -129,5 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
