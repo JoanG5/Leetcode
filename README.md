@@ -164,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/JoanG5/Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/JoanG5/Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/JoanG5/Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Dynamic Programming
 |  |
 | ------- |
