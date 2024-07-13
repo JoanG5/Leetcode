@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
@@ -230,5 +232,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
