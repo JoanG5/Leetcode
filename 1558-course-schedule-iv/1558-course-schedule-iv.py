@@ -8,7 +8,9 @@ class Solution:
             if cor not in prereqMap:
                 prereqMap[cor] = set()
                 for prereq in adj[cor]:
-                    prereqMap[cor] |= dfs(prereq)
+                    prereqs = dfs(prereq)
+                    for p in prereqs:
+                        prereqMap[cor].add(p)
                 prereqMap[cor].add(cor)
             return prereqMap[cor]
         
