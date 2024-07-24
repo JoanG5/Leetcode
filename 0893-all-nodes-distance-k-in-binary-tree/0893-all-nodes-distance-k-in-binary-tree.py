@@ -16,8 +16,6 @@ class Solution:
             size = len(queue)
             for _ in range(size):
                 node = queue.popleft()
-                if target == node:
-                    targetNode = node
                 if node.left:
                     parent[node.left] = node
                     queue.append(node.left)
@@ -26,7 +24,7 @@ class Solution:
                     queue.append(node.right)
 
         seen = {}
-        queue.append(targetNode)
+        queue.append(target)
         level = 0
 
         while queue:
