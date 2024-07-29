@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JoanG5/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
+| [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
