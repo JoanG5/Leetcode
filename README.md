@@ -147,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/JoanG5/Leetcode/tree/master/0179-largest-number) |
+| [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/JoanG5/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JoanG5/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/JoanG5/Leetcode/tree/master/0695-max-area-of-island) |
+| [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Graph
 |  |
 | ------- |
@@ -304,12 +308,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/JoanG5/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/JoanG5/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Topological Sort
 |  |
 | ------- |
