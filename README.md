@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/JoanG5/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/JoanG5/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/JoanG5/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
