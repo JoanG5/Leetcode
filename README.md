@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/JoanG5/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/JoanG5/Leetcode/tree/master/0200-number-of-islands) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
