@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/JoanG5/Leetcode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
