@@ -7,7 +7,7 @@ class Solution:
             if dif < 0:
                 while left < right:
                     left += 1
-            if dif > profit:
-                profit = dif
+            if dif > prof:
+                prof = dif
             right += 1
         return prof
