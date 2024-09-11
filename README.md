@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/JoanG5/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/JoanG5/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/JoanG5/Leetcode/tree/master/0242-valid-anagram) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/JoanG5/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JoanG5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/JoanG5/Leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
