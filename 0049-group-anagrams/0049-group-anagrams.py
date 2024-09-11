@@ -1,14 +1,15 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         res = {}
-
+        
         for word in strs:
             bucket = [0] * 26
-            for letter in word:
-                bucket[ord(letter) - ord("a")] += 1
-            if tuple(bucket) in res:
-                res[tuple(bucket)].append(word)
-            else: 
-                res[tuple(bucket)] = [word]
-        
-        return res.values()
+            for i in word:
+                bucket[ord(i) - ord("a")] += 1
+            bucket = tuple(bucket)
+            if bucket in res:
+                res[bucket].append(word)
+            else:
+                res[bucket] = [word]
+
+        return res.values()   
