@@ -1,44 +1,43 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if not t or not s or len(t) > len(s):
+        if len(t) > len(s) or s == t == "":
             return ""
-        
+
         counter = {}
-        check = {}
+        window_check = {}
+        for l in t:
+            counter[l] = 1 + counter.get(l, 0)
+            window_check[l] = 0
         
-        for char in t:
-            counter[char] = 1 + counter.get(char, 0)
-            check[char] = 0
+        l = r = 0
+        for i in range(len(s)):
+            if s[i] in counter: 
+                l = r = i 
+                break 
         
-        def valid(dic1, dic2):
-            for key in dic1:
-                if dic2.get(key, 0) < dic1[key]:
-                    return False
-            return True
-        
-        l, r = 0, 0
         res = ""
-        
-        while l < len(s) and s[l] not in counter:
-            l += 1
-        r = l
-        
+        match = 0
+
         while r < len(s):
             if s[r] in counter:
-                check[s[r]] += 1
+                window_check[s[r]] += 1
+                if window_check[s[r]] == counter[s[r]]: match += 1
             
-            while valid(counter, check):
-                if (r - l + 1 < len(res) or res == ""):
+            while match == len(counter):
+                if len(res) > r - l + 1 or res == "":
                     res = s[l:r + 1]
-                
-                if s[l] in counter:
-                    check[s[l]] -= 1
+
+                if s[l] in window_check:
+                    window_check[s[l]] -= 1
+                    if window_check[s[l]] < counter[s[l]]:
+                        match -= 1
+
                 l += 1
                 while l < len(s) and s[l] not in counter:
                     l += 1
-
             r += 1
         
         return res
+                
 
                 
