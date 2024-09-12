@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JoanG5/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JoanG5/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoanG5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
