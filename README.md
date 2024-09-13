@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JoanG5/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/JoanG5/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/JoanG5/Leetcode/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
