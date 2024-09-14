@@ -7,22 +7,21 @@ class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         if not head or not head.next:
             return
-        temp_list = head
         stack = []
-        while temp_list:
-            stack.append(temp_list)
-            temp_list = temp_list.next
+        temp_head = head
+        while temp_head:
+            stack.append(temp_head)
+            temp_head = temp_head.next
         
         n = len(stack)
-        temp_list = head
+        temp_head = head
         for _ in range(n // 2):
-            temp = temp_list.next
-            temp_list.next = stack.pop()
-            temp_list.next.next = temp
-            temp_list = temp
-            
+            temp = temp_head.next
+            temp_head.next = stack.pop()
+            temp_head.next.next = temp
+            temp_head = temp_head.next.next
         
-        if temp_list:
-            temp_list.next = None
+        if temp_head: temp_head.next = None
+
 
         
