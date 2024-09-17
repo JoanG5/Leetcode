@@ -14,15 +14,13 @@ class Solution:
         def dfs(node):
             if not node:
                 return None
-            elif node in visited:
+            if node in visited:
                 return visited[node]
-            else:
-                copy = Node(node.val)
-                visited[node] = copy 
-                for neighbor in node.neighbors:
-                    copy.neighbors.append(dfs(neighbor))
+            copy = Node(node.val)
+            visited[node] = copy 
+            for neighbor in node.neighbors:
+                copy.neighbors.append(dfs(neighbor))
             return copy
-        
-        return dfs(node)
 
+        return dfs(node)
             
