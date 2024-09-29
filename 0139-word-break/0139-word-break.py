@@ -1,9 +1,13 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        wordSet = set(wordDict) 
-        memo = [True] + [False] * len(s)
+        dp = [False] * (len(s) + 1)
+        dp[0] = True
+        words = set(wordDict)
         for i in range(len(s)):
-            if memo[i]:
-                for j in range(i + 1, len(s) + 1): 
-                    if s[i:j] in wordSet: memo[j] = True     
-        return memo[-1]
+            if dp[i]:
+                for j in range(i + 1, len(s) + 1):
+                    if s[i:j] in words:
+                        dp[j] = True
+        return dp[-1]
+
+
