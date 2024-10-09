@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/JoanG5/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JoanG5/Leetcode/tree/master/0079-word-search) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/JoanG5/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JoanG5/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JoanG5/Leetcode/tree/master/0179-largest-number) |
