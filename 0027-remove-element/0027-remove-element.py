@@ -1,13 +1,11 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        n = len(nums)
-        i = 0
-
-        while i < n:
-            if nums[i] == val:
-                nums[i], nums[n - 1] = nums[n - 1], nums[i]
-                n -= 1  # decrement the length of the array by discarding the last element
+        start, end = 0, len(nums)
+        count = 0
+        while start < end:
+            if nums[start] == val:
+                nums[start], nums[end - 1] = nums[end - 1], nums[start]
+                end -= 1
             else:
-                i += 1
-        
-        return n
+                start += 1
+        return end 
