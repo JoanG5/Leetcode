@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JoanG5/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoanG5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/JoanG5/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Sliding Window
 |  |
 | ------- |
