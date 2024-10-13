@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JoanG5/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoanG5/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/JoanG5/Leetcode/tree/master/0179-largest-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JoanG5/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JoanG5/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/JoanG5/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/JoanG5/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/JoanG5/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
