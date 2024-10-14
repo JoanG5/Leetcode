@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 ## Greedy
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Topological Sort
 |  |
