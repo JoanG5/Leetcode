@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JoanG5/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Sorting
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JoanG5/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 ## Design
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
+| [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 ## Union Find
 |  |
 | ------- |
