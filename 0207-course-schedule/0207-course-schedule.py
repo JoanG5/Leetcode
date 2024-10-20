@@ -1,26 +1,27 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         adj = { c: [] for c in range(numCourses)}
-        for req in prerequisites:
-            adj[req[0]].append(req[1])
+        for cor, pre in prerequisites:
+            adj[cor].append(pre)
         
-        cycle = set()
-
+        visited = set()
         def dfs(n):
-            if n in cycle:
+            if n in visited:
                 return False
             if adj[n] == []:
-                return True
+                return True 
             
-            cycle.add(n)
-            for neighbor in adj[n]:
-                if not dfs(neighbor):
+            visited.add(n)
+            for neigh in adj[n]:
+                if not dfs(neigh):
                     return False
-            cycle.remove(n)
+            
+            visited.remove(n)
             adj[n] = []
             return True
-
-        for n in range(numCourses):
-            if not dfs(n):
+        
+        for i in range(numCourses):
+            if not dfs(i):
                 return False
-        return True
+        return True 
+            
