@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoanG5/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoanG5/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JoanG5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/JoanG5/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoanG5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/JoanG5/Leetcode/tree/master/0169-majority-element) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/JoanG5/Leetcode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
