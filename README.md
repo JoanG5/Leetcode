@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JoanG5/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/JoanG5/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/JoanG5/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/JoanG5/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/JoanG5/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/JoanG5/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/JoanG5/Leetcode/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JoanG5/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoanG5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/JoanG5/Leetcode/tree/master/0202-happy-number) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
