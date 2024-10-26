@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JoanG5/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JoanG5/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/JoanG5/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
+| [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/JoanG5/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Topological Sort
