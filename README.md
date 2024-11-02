@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JoanG5/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
