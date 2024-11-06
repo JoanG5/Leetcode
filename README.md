@@ -491,12 +491,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/JoanG5/Leetcode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JoanG5/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoanG5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
