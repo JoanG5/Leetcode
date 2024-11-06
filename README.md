@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/JoanG5/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/JoanG5/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/JoanG5/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JoanG5/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JoanG5/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/JoanG5/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JoanG5/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JoanG5/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoanG5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JoanG5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/JoanG5/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JoanG5/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/JoanG5/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
