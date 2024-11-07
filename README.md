@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JoanG5/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/JoanG5/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/JoanG5/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 ## Matrix
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
