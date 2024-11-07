@@ -1,20 +1,26 @@
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
-        negative = (dividend < 0) ^ (divisor < 0)
-        dividend, divisor = abs(dividend), abs(divisor)
-        res = 0
-        cur = dividend
+        # 40 - 4 1
+        # 36 - 8 2
+        # 28 - 16 4
+        # 12 - 4 1
+        # 8 - 8 2
 
-        while cur >= divisor:
-            temp = divisor
-            mul = 1 
-            while cur >= temp:
+        negative = (dividend < 0) ^ (divisor < 0) 
+        d, dv = abs(dividend), abs(divisor)
+        cur = d
+        res = 0
+
+        while cur >= dv:
+            temp = dv
+            mul = 1
+            while temp <= cur:
                 cur -= temp
+                temp += temp
                 res += mul
                 mul += mul
-                temp += temp
-        
-        if negative:
-            res = -res
 
-        return min(2**31 - 1, max(-2**31, res))      
+        if negative: 
+            res = -res 
+
+        return min(2**31 - 1, max(-2**31, res))
