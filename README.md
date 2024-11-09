@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/JoanG5/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JoanG5/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/JoanG5/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/JoanG5/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/JoanG5/Leetcode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 ## Math
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JoanG5/Leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/JoanG5/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoanG5/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/JoanG5/Leetcode/tree/master/0202-happy-number) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
