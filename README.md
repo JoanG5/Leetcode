@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
+| [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JoanG5/Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/JoanG5/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Prefix Sum
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/JoanG5/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/JoanG5/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/JoanG5/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
