@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JoanG5/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JoanG5/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 ## Design
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/JoanG5/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/JoanG5/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/JoanG5/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
