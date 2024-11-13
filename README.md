@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Sorting
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JoanG5/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/JoanG5/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Data Stream
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Backtracking
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Shortest Path
 |  |
 | ------- |
@@ -617,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 <!---LeetCode Topics End-->
