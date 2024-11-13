@@ -1,12 +1,12 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        edges = collections.defaultdict(list)  # Using defaultdict to avoid KeyError
+        edges = defaultdict(list)
         for node, target, weight in times:
             edges[node].append((weight, target))
-
-        heap = [(0, k)]
-        time = 0
+        
         visited = set()
+        time = 0
+        heap = [(0, k)]
         while heap:
             cur_weight, cur_node = heapq.heappop(heap)
 
@@ -16,8 +16,6 @@ class Solution:
             visited.add(cur_node)
             time = cur_weight
             for weight, node in edges[cur_node]:
-                if not node in visited:
-                    heapq.heappush(heap, (weight + time, node))
+                heapq.heappush(heap, (time + weight, node))
         
         return time if len(visited) == n else -1
-
