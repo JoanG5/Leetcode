@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/JoanG5/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/JoanG5/Leetcode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/JoanG5/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JoanG5/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JoanG5/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/JoanG5/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JoanG5/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/JoanG5/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/JoanG5/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoanG5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/JoanG5/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JoanG5/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/JoanG5/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/JoanG5/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JoanG5/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/JoanG5/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JoanG5/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/JoanG5/Leetcode/tree/master/0542-01-matrix) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JoanG5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JoanG5/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JoanG5/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JoanG5/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/JoanG5/Leetcode/tree/master/0695-max-area-of-island) |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/JoanG5/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JoanG5/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JoanG5/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
@@ -533,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/JoanG5/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
 ## Simulation
 |  |
