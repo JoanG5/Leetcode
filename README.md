@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 ## Greedy
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/JoanG5/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/JoanG5/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
 ## Queue
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/JoanG5/Leetcode/tree/master/0494-target-sum) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/JoanG5/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -635,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+## Iterator
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
 <!---LeetCode Topics End-->
