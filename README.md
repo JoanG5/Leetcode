@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/JoanG5/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/JoanG5/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3561-remove-methods-from-project](https://github.com/JoanG5/Leetcode/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/JoanG5/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/JoanG5/Leetcode/tree/master/3561-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/JoanG5/Leetcode/tree/master/3561-remove-methods-from-project) |
 ## Hash Table
 |  |
 | ------- |
