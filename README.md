@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JoanG5/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JoanG5/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/JoanG5/Leetcode/tree/master/3561-remove-methods-from-project) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JoanG5/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JoanG5/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JoanG5/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
