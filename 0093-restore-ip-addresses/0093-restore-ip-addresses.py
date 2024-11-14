@@ -26,9 +26,7 @@ class Solution:
                 
                 if len(new_s) > 1 and new_s[0] == "0":
                     break
-                if len(new_s) >= 4:
-                    break
-
+            
                 if int(new_s) >= 0 and int(new_s) <= 255:
                     cur.append(new_s)
                     dfs(j, cur)
