@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 ## Greedy
 |  |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JoanG5/Leetcode/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Monotonic Stack
 |  |
