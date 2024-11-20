@@ -1,10 +1,5 @@
 class Solution:
-    def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        adj = defaultdict(list)
-        for i in range(len(graph)):
-            for j in graph[i]:
-                adj[i].append(j)
-        
+    def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:        
         res = []
         visited = set()
         safe = set()
@@ -14,12 +9,9 @@ class Solution:
 
             if node in safe:
                 return True
-
-            if adj[node] == []:
-                return True 
         
             visited.add(node)
-            for neigh in adj[node]:
+            for neigh in graph[node]:
                 if not dfs(neigh):
                     visited.remove(node)
                     return False
