@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/JoanG5/Leetcode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
+| [0979-di-string-match](https://github.com/JoanG5/Leetcode/tree/master/0979-di-string-match) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/JoanG5/Leetcode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/JoanG5/Leetcode/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JoanG5/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/JoanG5/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0979-di-string-match](https://github.com/JoanG5/Leetcode/tree/master/0979-di-string-match) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Array
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/JoanG5/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JoanG5/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/JoanG5/Leetcode/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/JoanG5/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
