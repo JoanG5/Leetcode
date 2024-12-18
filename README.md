@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoanG5/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JoanG5/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/JoanG5/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Array
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/JoanG5/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JoanG5/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/JoanG5/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JoanG5/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/JoanG5/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/JoanG5/Leetcode/tree/master/3561-remove-methods-from-project) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JoanG5/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/JoanG5/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/JoanG5/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JoanG5/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
