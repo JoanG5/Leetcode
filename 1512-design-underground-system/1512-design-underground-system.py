@@ -18,8 +18,9 @@ class UndergroundSystem(object):
         
 
     def getAverageTime(self, startStation, endStation):
-        return float(self.avg[(startStation, endStation)][0]) / float(self.avg[(startStation, endStation)][1]) 
-        
+        sum = float(self.avg[(startStation, endStation)][0])
+        size = float(self.avg[(startStation, endStation)][1])
+        return sum / size        
 
 
 # Your UndergroundSystem object will be instantiated and called as such:
