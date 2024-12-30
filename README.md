@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JoanG5/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1512-design-underground-system](https://github.com/JoanG5/Leetcode/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 ## Greedy
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/JoanG5/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
+| [1512-design-underground-system](https://github.com/JoanG5/Leetcode/tree/master/1512-design-underground-system) |
 ## Queue
 |  |
 | ------- |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1512-design-underground-system](https://github.com/JoanG5/Leetcode/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
