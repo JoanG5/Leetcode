@@ -1,7 +1,7 @@
 class Solution(object):
     def decodeString(self, s):
+        temp = ""
         stack = []
-        temp = ''
         cur = 0
         for c in s:
             if c.isdigit():
@@ -11,9 +11,11 @@ class Solution(object):
                 cur = 0
                 temp = ''
             elif c == "]":
-                num, prev_s = stack.pop()
-                temp = prev_s + num * temp
+                num, newS = stack.pop()
+                temp = newS + num * temp
             else:
-                temp = temp + c
+                temp += c
         
         return temp
+
+        
