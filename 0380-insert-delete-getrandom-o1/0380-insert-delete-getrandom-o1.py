@@ -1,35 +1,35 @@
 class RandomizedSet(object):
 
     def __init__(self):
-        self.map = {}
-        self.arr = []
+        self.numList = []
+        self.numMap = {}
 
     def insert(self, val):
-        res = val not in self.map
+        res = val not in self.numMap
         if res:
-            self.map[val] = len(self.arr)
-            self.arr.append(val)
+            self.numMap[val] = len(self.numList)
+            self.numList.append(val)
+        
         return res 
+        
 
     def remove(self, val):
-        res = val in self.map
+        res = val in self.numMap
         if res:
-            #[1,2,3]
-            #{1:0, 2:1, 3:2}
-            # Move end to val change
-            # Remove val 
-            i = self.map[val]
-            lastVal = self.arr[-1]
-            self.arr[i] = lastVal
-            self.arr.pop()
-            self.map[lastVal] = i
-            del self.map[val]
+            i = self.numMap[val]
+            lastVal = self.numList[-1]
+            self.numList[i] = lastVal
+            self.numList.pop()
+            self.numMap[lastVal] = i 
+            del self.numMap[val]
         return res
 
     def getRandom(self):
-        i = random.randint(0, len(self.arr) - 1)
-        return self.arr[i]
+        size = len(self.numList)
+        i = random.randint(0, size - 1)
+        return self.numList[i]
         
+
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
