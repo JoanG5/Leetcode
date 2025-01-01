@@ -7,10 +7,7 @@ class Solution(object):
             prevStart, prevEnd = stack[-1]
             if prevEnd >= start:
                 stack.pop()
-                if prevEnd > end:
-                    stack.append([prevStart, prevEnd])
-                else:
-                    stack.append([prevStart, end])
+                stack.append([prevStart, max(prevEnd, end)])
             else:
                 stack.append([start, end])
         
