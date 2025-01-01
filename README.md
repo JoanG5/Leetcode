@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JoanG5/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/JoanG5/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/JoanG5/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/JoanG5/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/JoanG5/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JoanG5/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/JoanG5/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/JoanG5/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/JoanG5/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/JoanG5/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/JoanG5/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/JoanG5/Leetcode/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/JoanG5/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/JoanG5/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1211-iterator-for-combination](https://github.com/JoanG5/Leetcode/tree/master/1211-iterator-for-combination) |
 ## Binary Search Tree
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JoanG5/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JoanG5/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/JoanG5/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/JoanG5/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/JoanG5/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/JoanG5/Leetcode/tree/master/1039-find-the-town-judge) |
