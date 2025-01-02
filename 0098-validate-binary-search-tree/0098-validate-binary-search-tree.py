@@ -6,18 +6,12 @@
 #         self.right = right
 class Solution(object):
     def isValidBST(self, root):
-        def helper(root):
+        def helper(root, max, min):
             if not root:
                 return True
             
-            left = helper(root.left)
-            right = helper(root.right)
+            if root.val >= max or root.val <= min: return False
 
-            if root.left and root.val <= root.left.val:
-                return False
-            if root.right and root.val >= root.right.val:
-                return False
-            
-            return left and right 
+            return helper(root.right, max, root.val) and helper(root.left, root.val, min) 
         
-        return helper(root)
+        return helper(root, float('inf'), -float('inf'))
