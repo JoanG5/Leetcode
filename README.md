@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JoanG5/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/JoanG5/Leetcode/tree/master/1656-count-good-triplets) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JoanG5/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1775-design-an-ordered-stream](https://github.com/JoanG5/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [1095-two-city-scheduling](https://github.com/JoanG5/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JoanG5/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JoanG5/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/JoanG5/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/JoanG5/Leetcode/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JoanG5/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1775-design-an-ordered-stream](https://github.com/JoanG5/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/JoanG5/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
