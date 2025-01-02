@@ -1,21 +1,23 @@
 # Definition for a binary tree node.
-# class TreeNode:
+# class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
-
-        def helper(root, max, min):
+class Solution(object):
+    def isValidBST(self, root):
+        def helper(root):
             if not root:
                 return True
             
-            if root.val >= max or root.val <= min: return False
+            left = helper(root.left)
+            right = helper(root.right)
 
-            return helper(root.right, max, root.val) and helper(root.left, root.val, min) 
+            if root.left and root.val <= root.left.val:
+                return False
+            if root.right and root.val >= root.right.val:
+                return False
+            
+            return left and right 
         
-        return helper(root, float(inf), -float(inf))
-
-
-        
+        return helper(root)
