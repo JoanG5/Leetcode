@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JoanG5/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1512-design-underground-system](https://github.com/JoanG5/Leetcode/tree/master/1512-design-underground-system) |
 | [1619-path-crossing](https://github.com/JoanG5/Leetcode/tree/master/1619-path-crossing) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/JoanG5/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1775-design-an-ordered-stream](https://github.com/JoanG5/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/JoanG5/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Topological Sort
 |  |
 | ------- |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/JoanG5/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
