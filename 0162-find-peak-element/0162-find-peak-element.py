@@ -1,7 +1,7 @@
 class Solution(object):
     def findPeakElement(self, nums):
         l, r = 0, len(nums) - 1
-
+        mid = 0
         while l < r:
             mid = (l + r) // 2
 
