@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JoanG5/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoanG5/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/JoanG5/Leetcode/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/JoanG5/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/JoanG5/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/JoanG5/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/JoanG5/Leetcode/tree/master/0832-binary-tree-pruning) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/JoanG5/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/JoanG5/Leetcode/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/JoanG5/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JoanG5/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Combinatorics
 |  |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/JoanG5/Leetcode/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/JoanG5/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Quickselect
 |  |
 | ------- |
