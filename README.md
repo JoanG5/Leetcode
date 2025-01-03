@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/JoanG5/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoanG5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/JoanG5/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/JoanG5/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/JoanG5/Leetcode/tree/master/0200-number-of-islands) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/JoanG5/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/JoanG5/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/JoanG5/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/JoanG5/Leetcode/tree/master/0200-number-of-islands) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/JoanG5/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoanG5/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JoanG5/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/JoanG5/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoanG5/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/JoanG5/Leetcode/tree/master/0146-lru-cache) |
