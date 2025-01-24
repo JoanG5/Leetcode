@@ -1,34 +1,36 @@
-class RandomizedSet(object):
+class RandomizedSet:
 
     def __init__(self):
-        self.map = {}
-        self.list = []
+        self.randArr = []
+        self.randSet = {}
 
-    def insert(self, val):
-        res = val not in self.map
+    def insert(self, val: int) -> bool:
+        res = not val in self.randSet
         if res:
-            self.map[val] = len(self.list)
-            self.list.append(val)
+            self.randSet[val] = len(self.randArr)
+            self.randArr.append(val)
         return res
-        
 
-    def remove(self, val):
-        res = val in self.map
+    def remove(self, val: int) -> bool:
+        res = val in self.randSet
+        #[1, 2, 3]
+        #[1: 0, 2: 1, 3: 2]
         if res:
-            i = self.map[val]
-            lastVal = self.list[-1]
-            self.list[i] = lastVal
-            self.list.pop()
-            self.map[lastVal] = i 
-            del self.map[val]
+            lastInd = len(self.randArr) - 1
+            lastVal = self.randArr[-1]
+            curInd = self.randSet[val]
+            self.randArr[lastInd], self.randArr[curInd] = self.randArr[curInd], self.randArr[lastInd]
+            self.randSet[lastVal] = curInd
+            del self.randSet[val]
+            self.randArr.pop()
+        
         return res
-        
 
-    def getRandom(self):
-        size = len(self.list)
-        i = random.randint(0, size - 1)
-        return self.list[i]
-        
+    def getRandom(self) -> int:
+        size = len(self.randArr)
+        n = random.randint(0, size - 1)
+        return self.randArr[n]
+
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
