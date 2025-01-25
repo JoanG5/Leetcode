@@ -1,21 +1,21 @@
-class Solution(object):
-    def decodeString(self, s):
+class Solution:
+    def decodeString(self, s: str) -> str:
         cur = 0
-        t = ""
         stack = []
+        res = ""
 
         for c in s:
             if c.isdigit():
                 cur = cur * 10 + int(c)
             elif c == "[":
-                stack.append((cur, t))
-                t = ""
+                
+                stack.append((cur, res))
+                res = ""
                 cur = 0
             elif c == "]":
-                num, last = stack.pop()
-                t = last + num * t
+                num, s = stack.pop()
+                res = s + num * res
             else:
-                t += c
+                res += c
         
-        return t
-        
+        return res
