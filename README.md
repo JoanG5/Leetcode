@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JoanG5/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1775-design-an-ordered-stream](https://github.com/JoanG5/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1983-maximum-population-year](https://github.com/JoanG5/Leetcode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JoanG5/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/JoanG5/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JoanG5/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JoanG5/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1983-maximum-population-year](https://github.com/JoanG5/Leetcode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JoanG5/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2145-grid-game](https://github.com/JoanG5/Leetcode/tree/master/2145-grid-game) |
 ## Design
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1983-maximum-population-year](https://github.com/JoanG5/Leetcode/tree/master/1983-maximum-population-year) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/JoanG5/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Monotonic Stack
 |  |
