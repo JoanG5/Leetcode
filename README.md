@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JoanG5/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JoanG5/Leetcode/tree/master/0069-sqrtx) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JoanG5/Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/JoanG5/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JoanG5/Leetcode/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JoanG5/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoanG5/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/JoanG5/Leetcode/tree/master/0143-reorder-list) |
