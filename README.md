@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JoanG5/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JoanG5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JoanG5/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JoanG5/Leetcode/tree/master/0078-subsets) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/JoanG5/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/JoanG5/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/JoanG5/Leetcode/tree/master/0120-triangle) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JoanG5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/JoanG5/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/JoanG5/Leetcode/tree/master/0130-surrounded-regions) |
