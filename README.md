@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JoanG5/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JoanG5/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JoanG5/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/JoanG5/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JoanG5/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JoanG5/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JoanG5/Leetcode/tree/master/0055-jump-game) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JoanG5/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/JoanG5/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JoanG5/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/JoanG5/Leetcode/tree/master/0079-word-search) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoanG5/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/JoanG5/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JoanG5/Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/JoanG5/Leetcode/tree/master/0089-gray-code) |
