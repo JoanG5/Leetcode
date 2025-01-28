@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/JoanG5/Leetcode/tree/master/0768-partition-labels) |
+| [0829-subdomain-visit-count](https://github.com/JoanG5/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/JoanG5/Leetcode/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JoanG5/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/JoanG5/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0829-subdomain-visit-count](https://github.com/JoanG5/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0841-shortest-distance-to-a-character](https://github.com/JoanG5/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/JoanG5/Leetcode/tree/master/0861-flipping-an-image) |
 | [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/JoanG5/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JoanG5/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0829-subdomain-visit-count](https://github.com/JoanG5/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/JoanG5/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/JoanG5/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/JoanG5/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JoanG5/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/JoanG5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/JoanG5/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/JoanG5/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/JoanG5/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/JoanG5/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JoanG5/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
