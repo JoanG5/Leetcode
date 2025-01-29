@@ -7,15 +7,15 @@ class Solution:
         for c in s:
             if c.isdigit():
                 cur = cur * 10 + int(c)
-            elif c == "[":
-                
+            elif c == '[':
                 stack.append((cur, res))
-                res = ""
+                res = ''
                 cur = 0
-            elif c == "]":
-                num, s = stack.pop()
-                res = s + num * res
+            elif c == ']':
+                num, curS = stack.pop()
+                res = curS + res * num 
             else:
                 res += c
-        
+
         return res
+
