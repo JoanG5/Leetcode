@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/JoanG5/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0883-car-fleet](https://github.com/JoanG5/Leetcode/tree/master/0883-car-fleet) |
 | [1095-two-city-scheduling](https://github.com/JoanG5/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1488-sort-integers-by-the-power-value](https://github.com/JoanG5/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JoanG5/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JoanG5/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2505-number-of-good-paths](https://github.com/JoanG5/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
 | [1087-longest-arithmetic-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/JoanG5/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1488-sort-integers-by-the-power-value](https://github.com/JoanG5/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/JoanG5/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Backtracking
 |  |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/JoanG5/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/JoanG5/Leetcode/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/JoanG5/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Trie
 |  |
 | ------- |
