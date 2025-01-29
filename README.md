@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoanG5/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/JoanG5/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/JoanG5/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/JoanG5/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JoanG5/Leetcode/tree/master/0062-unique-paths) |
