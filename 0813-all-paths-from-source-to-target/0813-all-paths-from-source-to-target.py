@@ -1,25 +1,20 @@
-class Solution(object):
-    def allPathsSourceTarget(self, graph):
+class Solution:
+    def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         res = []
         n = len(graph)
-        # cycle = set()
+        visted = set()
+
         def dfs(i, cur):
-            # if i in cycle:
-            #     return
-
-            if i == n - 1:
-                cur.append(i)
-                res.append(cur)
-                return
-
             cur.append(i)
-            # cycle.add(i)
-
-            for neigh in graph[i]:
-                dfs(neigh, cur[:])
+            if i == n - 1:
+                res.append(cur[:])
+                return
             
-            # cycle.remove(i)
-
-        dfs(0, [])
-        return res
+            for neigh in graph[i]:
+                dfs(neigh, cur)
+                cur.pop()
+                
         
+        dfs(0, [])
+    
+        return res
